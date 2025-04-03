@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at Heartsun Technology Pvt. Ltd as Junior Software Developer.<br>Completed Bachelor of Computer Application in 2022.<br>I started my career as a Front-end Intern at OneHorn Solutions.
+I'm currently working at Heartsun Technology Pvt. Ltd as Junior Software Developer.<br>Completed Bachelor of Computer Application in 2022.<br>I started my career as a Front-end Intern at OneHorn Solutions.<br>Currently working as a Software Developer at Heartsun Technology Pvt. Ltd.
 
 
 ## 🌐 Socials:
